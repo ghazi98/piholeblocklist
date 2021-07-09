@@ -234,7 +234,7 @@
 # ----------------------------------------------------------
 # PI-HOLE MEDIA BLOCKLIST: YOUTUBE
 # ----------------------------------------------------------
-# Source:
+# Source: https://raw.githubusercontent.com/ghazi98/piholeblocklist/main/all.txt
 # Copyright (c) 2020 Chris Pietschmann
 # License: MIT License
 # ---------------------------------------------------------- 
