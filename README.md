@@ -1,5 +1,5 @@
 # piholeblocklist
-This github repository hosts a .txt file that contains a blocklist of domains for my DNS server. This list blocks domains related to social media.
+This github repository hosts a .txt file that contains a blocklist of domains for my DNS server (pihole). This list blocks domains related to social media.
 
 # Usage:
 <details>
